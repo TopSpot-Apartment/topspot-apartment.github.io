@@ -1,1 +1,0 @@
-# topspot-apartment.github.io
