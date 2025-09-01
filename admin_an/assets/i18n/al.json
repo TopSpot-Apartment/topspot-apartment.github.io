@@ -1,0 +1,96 @@
+{
+  "search": "Kërko...",
+  "showLocation": "Shfaq vendodhjen",
+  "freeEntry": "Hyrja e lirë",
+  "hours": "orë",
+  "hour": "orë",
+  "minutes": "min",
+  "contactInfoPermission": "A mund t'ju kontaktojmë nëse nevojitet?",
+  "no": "Jo",
+  "yes": "Po",
+  "swipeUp": "Tërhiq lart",
+    "common": {
+    "poweredBy": "Mundesuar nga Arbri Gjylbegaj",
+    "cardItems": {
+      "Discover": "Eksploro",
+      "Events": "Evente",
+      "Report": "Raporto",
+      "Transport": "Transporti",
+      "News": "Lajme",
+      "Info": "Info"
+    }
+  },
+  "header": {
+    "currentTitle1_home": "Urdhna",
+    "currentTitle2_home": "n'Shkodër",
+    "currentTitle1_events": "Eve",
+    "currentTitle2_events": "nte",
+    "currentTitle1_transport": "Tran",
+    "currentTitle2_transport": "sporti",
+    "currentTitle1_info": "Inform",
+    "currentTitle2_info": "acioni",
+    "currentTitle1_report": "Raporto",
+    "currentTitle2_report": "Problem",
+    "currentTitle1_discover": "Eksp",
+    "currentTitle2_discover": "loro",
+    "currentTitle1_news": "Lajmet",
+    "currentTitle2_news": "e fundit",
+    "currentTitle1_solved_reports": "Problematika",
+    "currentTitle2_solved_reports": "të Zgjidhura",
+    "currentTitle1_default": "Urdhna",
+    "currentTitle2_default": " n'Shkodër"
+  },
+  "transport": {
+    "infoHeader": "Këtu mund te gjeni oraret për autobusët që nisen nga Shkodra. Gjeni më poshtë destinacionin tuaj dhe gjeni informacion në lidhje me oraret dhe pikënisjen e tyre.",
+    "ticketPrice": "Çmimi i biletes:",
+    "tripDuration": "Kohëzgjatja e udhëtimit:"
+  },
+  "report": {
+    "title": "Plotësoni formularin e mëposhtëm për të raportuar një problematikë",
+    "solvedReports":"Problematika të zgjidhura",
+    "categoryLabel": "Zgjidhni një kategori",
+    "infrastructureCategory": "Infrastruktura",
+    "garbageCategory": "Mbeturinat",
+    "otherCategory": "Tjetër",
+    "categoryRequiredError": "Kategoria është e detyrueshme.",
+    "subjectLabel": "Subjekti",
+    "subjectRequiredError": "Subjekti është i detyrueshëm.",
+    "emailLabel": "Email-i juaj",
+    "emailRequiredError": "Email-i është i detyrueshëm.",
+    "emailInvalidError": "Email-i është i pavlefshëm.",
+    "nameLabel": "Emri juaj",
+    "nameRequiredError": "Emri është i detyrueshëm.",
+    "phoneLabel": "Numri juaj i telefonit",
+    "phoneRequiredError": "Numri i telefonit është i detyrueshëm.",
+    "addressLabel": "Adresa e problematikës",
+    "addressRequiredError": "Adresa është e detyrueshme.",
+    "descriptionLabel": "Përshkrimi i problematikës",
+    "descriptionRequiredError": "Përshkrimi është i detyrueshëm.",
+    "descriptionMaxLengthError": "Përshkrimi nuk mund të tejkalojë 2000 karaktere.",
+    "imageUploadLabel": "Ngarko Foto",
+    "sendReportButton": "Dërgo Raportimin",
+    "invalidFileType": "Foto e pavlefshme. Vetëm formatet JPEG dhe PNG lejohen.",
+    "fileTooLarge": "Skedari tejkalon madhësinë maksimale prej 15MB.",
+    "fieldsNotFilledOrMistakes":"Ka gabime në formë. Ju lutem kontrolloni formën",
+    "reportSuccess": {
+      "title": "Raporti u dorëzua me sukses",
+      "message": "Ekipi ynë do të trajtojë problemin sa më shpejt të jetë e mundur",
+      "buttonText": "Në rregull"
+    },
+    "reportPublished": {
+      "citizensReport": "Të dhënat e raportimit",
+      "solvedDate": "Zgjidhur më",
+      "reportedDate": "Raportuar më"
+
+    }
+  },
+  "discover": {
+    "freeEntry": "Hyrja e lirë"
+  },
+  "home": {
+    "explore": "Eksploro",
+    "shkoder": "n'Shkodër",
+    "upcoming": "Evente",
+    "events": "n'Shkodër"
+  }
+}

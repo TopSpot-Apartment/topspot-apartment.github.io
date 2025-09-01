@@ -1,0 +1,96 @@
+{
+  "search": "Search...",
+  "showLocation": "Show location",
+  "freeEntry": "Free Entry",
+  "hours": "hrs",
+  "hour": "hr",
+  "minutes": "mins",
+  "contactInfoPermission": "Can we contact you if needed?",
+  "no": "No",
+  "yes": "Yes",
+  "swipeUp": "Swipe up",
+  "common": {
+    "poweredBy": "Powered by Arbri Gjylbegaj",
+    "cardItems": {
+      "Discover": "Discover",
+      "Events": "Events",
+      "Report": "Report",
+      "Transport": "Transport",
+      "News": "News",
+      "Info": "Info"
+    }
+  },
+  "header": {
+    "currentTitle1_home": "Urdhna",
+    "currentTitle2_home": "n'Shkodër",
+    "currentTitle1_events": "Eve",
+    "currentTitle2_events": "nts",
+    "currentTitle1_transport": "Tran",
+    "currentTitle2_transport": "sport",
+    "currentTitle1_info": "Infor",
+    "currentTitle2_info": "mation",
+    "currentTitle1_report": "Report",
+    "currentTitle2_report": "Problem",
+    "currentTitle1_discover": "Disc",
+    "currentTitle2_discover": "over",
+    "currentTitle1_news": "Latest",
+    "currentTitle2_news": "News",
+    "currentTitle1_solved_reports": "Solved",
+    "currentTitle2_solved_reports": "Reports",
+    "currentTitle1_default": "Urdhna",
+    "currentTitle2_default": "n'Shkodër"
+  },
+  "transport": {
+    "infoHeader": "Here you can find the schedules for buses departing from Shkodra. Find your destination below and find information about their timetables and departure points.",
+    "ticketPrice": "Ticket Price:",
+    "tripDuration": "Trip Duration:"
+  },
+  "report": {
+    "title": "Fill the below form to report a problem",
+    "solvedReports":"Solved Reports",
+    "categoryLabel": "Choose a category",
+    "infrastructureCategory": "Infrastructure",
+    "garbageCategory": "Garbage",
+    "otherCategory": "Other",
+    "categoryRequiredError": "Category is required.",
+    "subjectLabel": "Subject",
+    "subjectRequiredError": "Subject is required.",
+    "emailLabel": "Your e-mail",
+    "emailRequiredError": "e-mail is required.",
+    "emailInvalidError": "e-mail is invalid.",
+    "nameLabel": "Your name",
+    "nameRequiredError": "Name is required.",
+    "phoneLabel": "Your phone number",
+    "phoneRequiredError": "Phone is required.",
+    "addressLabel": "Address of the identified problem",
+    "addressRequiredError": "Address is required.",
+    "descriptionLabel": "Description",
+    "descriptionRequiredError": "Description is required.",
+    "descriptionMaxLengthError": "Description cannot exceed 2000 characters.",
+    "imageUploadLabel": "Image Upload",
+    "sendReportButton": "Send Report",
+    "invalidFileType": "Invalid file type. Only JPEG and PNG are allowed.",
+    "fileTooLarge": "File is too large. Maximum size is 15MB.",
+    "fieldsNotFilledOrMistakes":"The form has mistakes. Please check and correct the form",
+    "reportSuccess": {
+      "title": "Report submitted successfully",
+      "message": "Our team will treat the problem as soon as possible",
+      "buttonText": "OK"
+    },
+    "reportPublished": {
+      "citizensReport": "Report Data",
+      "solvedDate": "Solved on",
+      "reportedDate": "Reported on"
+
+    }
+  },
+  "discover": {
+    "freeEntry": "Free Entry"
+  },
+  "home": {
+    "explore": "Explore",
+    "shkoder": "Shkodër",
+    "upcoming": "Upcoming",
+    "events": "Events"
+  }
+}
