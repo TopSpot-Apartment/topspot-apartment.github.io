@@ -13,6 +13,12 @@
   "yes": "Yes",
   "swipeUp": "Swipe up",
   "googleMapsProfile": "Google Maps Profile",
+  "emergencySectionTitle": "Emergency Numbers",
+  "generalEmergencies": "Emergencies - Main Center",
+  "roadsPolice": "Roads Police",
+  "medicalEmergency": "Medical Emergency",
+  "firefighters": "Firefighters",
+  "statePolice": "State Police",
   "common": {
     "poweredBy": "Created with ",
     "poweredBy2": " for Sam&Anisa by ",
