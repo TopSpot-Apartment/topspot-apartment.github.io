@@ -1,0 +1,103 @@
+{
+  "search": "Kërko...",
+  "showLocation": "Shfaq vendodhjen",
+  "freeEntry": "Hyrja e lirë",
+  "hours": "orë",
+  "hour": "orë",
+  "minutes": "min",
+  "note": "Shënim:",
+  "disclaimerForEvents": "Ne përpiqemi të mbajmë informacionet e eventeve sa më të përditësuara. Megjithatë, çdo ndryshim i bërë nga organizatorët pas publikimit mund të mos pasqyrohet këtu.",
+  "notAffiliatedNote": "Kemi përzgjedhur disa nga restorantet dhe shërbimet e dorëzimit që na pëlqejnë më shumë. Nuk kemi asnjë lidhje me to, dhe shijet janë të ndryshme për secilin, por ne i shijojmë dhe ndoshta edhe ju do t’i pëlqeni",
+  "notAffiliatedNoteDrinking": "Kemi përzgjedhur disa nga baret që i frekuentojmë personalisht. Nuk kemi asnjë lidhje me to, por na pëlqen të kalojmë kohën tek to.",
+  "restaurants": "Restorante/Fast Food",
+  "no": "Jo",
+  "yes": "Po",
+  "swipeUp": "Tërhiq lart",
+  "googleMapsProfile": "Profili në Google Maps",
+    "common": {
+    "poweredBy": "Krijuar me ",
+    "poweredBy2": " për Sam&Anisa nga ",
+    "cardItems": {
+      "Discover": "Eksploro",
+      "Events": "Evente",
+      "Transport": "Transporti",
+      "Contacts": "Kontakte",
+      "Restaurants": "Për të ngrënë",
+      "Drinking": "Për të pirë"
+    }
+  },
+  "header": {
+    "currentTitle1_home": "Top Spot",
+    "currentTitle2_home": "Apartment",
+    "currentTitle1_events": "Eve",
+    "currentTitle2_events": "nte",
+    "currentTitle1_transport": "Tran",
+    "currentTitle2_transport": "sporti",
+    "currentTitle1_info": "Inform",
+    "currentTitle2_info": "acioni",
+    "currentTitle1_discover": "Eksp",
+    "currentTitle2_discover": "loro",
+    "currentTitle1_eating": "Restorante/",
+    "currentTitle2_eating": "Fast-Food",
+    "currentTitle1_drinking": "Bare/",
+    "currentTitle2_drinking": "Pube",
+    "currentTitle1_default": "Top",
+    "currentTitle2_default": "Spot"
+  },
+  "transport": {
+    "infoHeader": "Këtu mund të gjeni informacion mbi shërbimet e taksive dhe oraret e autobusëve që nisen nga Shkodra. Zgjidhni destinacionin tuaj më poshtë për të parë detaje mbi oraret dhe pikat e nisjes. Ju lutemi, kini parasysh se oraret e autobusëve mund të ndryshojnë pa paralajmërim nga operatorët për shkak të kërkesës ose rrethanave të tjera. Oraret e shfaqura këtu pasqyrojnë përditësimet më të fundit zyrtare.",
+    "ticketPrice": "Çmimi i biletes:",
+    "tripDuration": "Kohëzgjatja e udhëtimit:",
+    "busSection": "Autobus",
+    "destination": "Destinacioni",
+    "taxiSection": "Shërbim Taxi"
+  },
+  "report": {
+    "title": "Plotësoni formularin e mëposhtëm për të raportuar një problematikë",
+    "solvedReports":"Problematika të zgjidhura",
+    "categoryLabel": "Zgjidhni një kategori",
+    "infrastructureCategory": "Infrastruktura",
+    "garbageCategory": "Mbeturinat",
+    "otherCategory": "Tjetër",
+    "categoryRequiredError": "Kategoria është e detyrueshme.",
+    "subjectLabel": "Subjekti",
+    "subjectRequiredError": "Subjekti është i detyrueshëm.",
+    "emailLabel": "Email-i juaj",
+    "emailRequiredError": "Email-i është i detyrueshëm.",
+    "emailInvalidError": "Email-i është i pavlefshëm.",
+    "nameLabel": "Emri juaj",
+    "nameRequiredError": "Emri është i detyrueshëm.",
+    "phoneLabel": "Numri juaj i telefonit",
+    "phoneRequiredError": "Numri i telefonit është i detyrueshëm.",
+    "addressLabel": "Adresa e problematikës",
+    "addressRequiredError": "Adresa është e detyrueshme.",
+    "descriptionLabel": "Përshkrimi i problematikës",
+    "descriptionRequiredError": "Përshkrimi është i detyrueshëm.",
+    "descriptionMaxLengthError": "Përshkrimi nuk mund të tejkalojë 2000 karaktere.",
+    "imageUploadLabel": "Ngarko Foto",
+    "sendReportButton": "Dërgo Raportimin",
+    "invalidFileType": "Foto e pavlefshme. Vetëm formatet JPEG dhe PNG lejohen.",
+    "fileTooLarge": "Skedari tejkalon madhësinë maksimale prej 15MB.",
+    "fieldsNotFilledOrMistakes":"Ka gabime në formë. Ju lutem kontrolloni formën",
+    "reportSuccess": {
+      "title": "Raporti u dorëzua me sukses",
+      "message": "Ekipi ynë do të trajtojë problemin sa më shpejt të jetë e mundur",
+      "buttonText": "Në rregull"
+    },
+    "reportPublished": {
+      "citizensReport": "Të dhënat e raportimit",
+      "solvedDate": "Zgjidhur më",
+      "reportedDate": "Raportuar më"
+
+    }
+  },
+  "discover": {
+    "freeEntry": "Hyrja e lirë"
+  },
+  "home": {
+    "explore": "Eksploro",
+    "shkoder": "n'Shkodër",
+    "upcoming": "Evente",
+    "events": "n'Shkodër"
+  }
+}

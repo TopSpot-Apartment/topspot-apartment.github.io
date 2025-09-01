@@ -1,0 +1,102 @@
+{
+  "search": "Search...",
+  "showLocation": "Show location",
+  "freeEntry": "Free Entry",
+  "hours": "hrs",
+  "hour": "hr",
+  "note": "Note:",
+  "disclaimerForEvents": "We try to keep event details up to date. However, any changes made by organizers after publishing may not always be reflected here.",
+  "notAffiliatedNote": "We have put together some of our favorite local restaurants and delivery spots. We are not affiliated with them, and everyone's taste is different, but we enjoy them ourselves and maybe you will like them too",
+  "notAffiliatedNoteDrinking": "We have put together some of our favorite bars we usually go to. We are not affiliated with them, but we enjoy our time there.",
+  "minutes": "mins",
+  "no": "No",
+  "yes": "Yes",
+  "swipeUp": "Swipe up",
+  "googleMapsProfile": "Google Maps Profile",
+  "common": {
+    "poweredBy": "Created with ",
+    "poweredBy2": " for Sam&Anisa by ",
+    "cardItems": {
+      "Discover": "Discover",
+      "Events": "Events",
+      "Transport": "Transport",
+      "Contacts": "Contacts",
+      "Restaurants": "Eating",
+      "Drinking": "Drinking"
+    }
+  },
+  "header": {
+    "currentTitle1_home": "Top Spot",
+    "currentTitle2_home": "Apartment",
+    "currentTitle1_events": "Eve",
+    "currentTitle2_events": "nts",
+    "currentTitle1_transport": "Tran",
+    "currentTitle2_transport": "sport",
+    "currentTitle1_info": "Cont",
+    "currentTitle2_info": "acts",
+    "currentTitle1_discover": "Disc",
+    "currentTitle2_discover": "over",
+    "currentTitle1_eating": "Eating",
+    "currentTitle2_eating": "Places",
+    "currentTitle1_drinking": "Drinking",
+    "currentTitle2_drinking": "Places",
+    "currentTitle1_default": "Top",
+    "currentTitle2_default": "Spot"
+  },
+  "transport": {
+    "infoHeader": "Here you can find information on taxi services and bus schedules departing from Shkodra. View your destination below to check details on timetables and departure points. Please note that bus schedules are subject to change at short notice by the service providers due to demand or other circumstances. The schedules shown here reflect the latest official updates.",
+    "ticketPrice": "Ticket Price:",
+    "tripDuration": "Trip Duration:",
+    "busSection": "Bus",
+    "destination": "Destinacioni",
+    "taxiSection": "Taxi Service"
+  },
+  "report": {
+    "title": "Fill the below form to report a problem",
+    "solvedReports":"Solved Reports",
+    "categoryLabel": "Choose a category",
+    "infrastructureCategory": "Infrastructure",
+    "garbageCategory": "Garbage",
+    "otherCategory": "Other",
+    "categoryRequiredError": "Category is required.",
+    "subjectLabel": "Subject",
+    "subjectRequiredError": "Subject is required.",
+    "emailLabel": "Your e-mail",
+    "emailRequiredError": "e-mail is required.",
+    "emailInvalidError": "e-mail is invalid.",
+    "nameLabel": "Your name",
+    "nameRequiredError": "Name is required.",
+    "phoneLabel": "Your phone number",
+    "phoneRequiredError": "Phone is required.",
+    "addressLabel": "Address of the identified problem",
+    "addressRequiredError": "Address is required.",
+    "descriptionLabel": "Description",
+    "descriptionRequiredError": "Description is required.",
+    "descriptionMaxLengthError": "Description cannot exceed 2000 characters.",
+    "imageUploadLabel": "Image Upload",
+    "sendReportButton": "Send Report",
+    "invalidFileType": "Invalid file type. Only JPEG and PNG are allowed.",
+    "fileTooLarge": "File is too large. Maximum size is 15MB.",
+    "fieldsNotFilledOrMistakes":"The form has mistakes. Please check and correct the form",
+    "reportSuccess": {
+      "title": "Report submitted successfully",
+      "message": "Our team will treat the problem as soon as possible",
+      "buttonText": "OK"
+    },
+    "reportPublished": {
+      "citizensReport": "Report Data",
+      "solvedDate": "Solved on",
+      "reportedDate": "Reported on"
+
+    }
+  },
+  "discover": {
+    "freeEntry": "Free Entry"
+  },
+  "home": {
+    "explore": "Explore",
+    "shkoder": "Shkodër",
+    "upcoming": "Upcoming",
+    "events": "Events"
+  }
+}
